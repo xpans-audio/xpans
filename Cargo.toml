@@ -1,0 +1,11 @@
+[package]
+name = "xpans"
+version = "0.1.0"
+edition = "2024"
+description = "A trait-based implementation of the xpans Audio Source Definition for use across xpans-compatible crates."
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/xpans-audio/xpans.git"
+authors = ["Ben Seigler"]
+
+[dependencies]
